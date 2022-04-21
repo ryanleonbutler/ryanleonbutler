@@ -13,4 +13,4 @@ Senior Cloud Engineer at [Amazon Web Services](https://aws.amazon.com)
 - 💬 Ask me about anything Python or Star Wars related
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanleonbutler) & [Twitter](https://twitter.com/ryanleonbutler)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Can't start the day without some coffee from my [Bialetti Moka Pot]()
+- ⚡ Fun fact: Can't start the day without some coffee from my [Bialetti Moka Pot](https://user-images.githubusercontent.com/32143470/164430176-4e520026-b973-49fd-a2fb-133aa6602c3e.jpg)
